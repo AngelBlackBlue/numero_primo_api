@@ -1,0 +1,28 @@
+{
+  "name": "numero_primo_api",
+  "version": "1.0.0",
+  "description": "test unitario de nuemros primos con Node y Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelBlackBlue/numero_primo_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AngelBlackBlue/numero_primo_api/issues"
+  },
+  "homepage": "https://github.com/AngelBlackBlue/numero_primo_api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.1.0"
+  }
+}

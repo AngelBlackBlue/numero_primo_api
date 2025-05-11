@@ -4,7 +4,9 @@
   "description": "test unitario de nuemros primos con Node y Express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node src/server.ts",
+    "dev": "ts-node-dev src/server.ts",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
